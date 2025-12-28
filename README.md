@@ -1,5 +1,6 @@
 # Sales-Performance-Analysis
 Sales Performance Analysis project using Excel to analyze multi-year sales, profit, and regional performance. Includes trend analysis, ranking analysis, and business insights with strategic recommendations.
+
 📌 Project Overview
 
 This project analyzes 3 years of sales, profit, quantity, and discount performance to identify:
@@ -32,16 +33,14 @@ Correlation Understanding
 ✔ Highlight profit drivers & growth opportunities
 ✔ Present findings through a structured analytical workflow
 
-Source insights and summaries are taken from the project presentation 
-
-Sales Performance Analysis
+Source insights and summaries are taken from the project presentation.
 
 📂 Dataset Overview
 
 Dataset Duration: 3 Years
 Data Source: Company Sales Order Dataset
 
-Key Columns Included:
+Key Columns Included
 
 Order & Shipment — row_id, order_id, order_date, ship_date, ship_mode
 
@@ -65,8 +64,6 @@ Ranking Analysis
 
 Dashboard View
 
-Sales Performance Analysis
-
 🛠 Tools & Techniques
 Tool	Purpose
 Microsoft Excel	Primary analysis & modelling
@@ -78,15 +75,13 @@ Benchmark Comparison	Regional performance evaluation
 📊 Analysis Performed
 🔹 1) Trend / Time-Series Analysis
 
-Key findings:
+Key Findings
 
 Sales & profit showed consistent YoY growth (2020–2022)
 
 2020 profit increased despite slight drop in sales → better margin efficiency
 
-2022 recorded highest sales (₹7.31L) & profit (₹93.6K)
-
-Sales Performance Analysis
+2022 recorded highest Sales (₹7.31L) & Profit (₹93.6K)
 
 🔹 2) Regional Comparison Analysis
 
@@ -106,15 +101,13 @@ Central Region — Weakest Performance
 
 Lowest profit
 
-Downward trend after 2021
+Declining trend after 2021
 
 South Region — Stable Sales, Moderate Profitability
 
 Sales steady but margins limited
 
 Requires profitability optimization
-
-Sales Performance Analysis
 
 🔹 3) Ranking Analysis (By Sales & Profit)
 
@@ -124,13 +117,13 @@ Copiers — Highest profit despite mid-range sales
 
 Phones — High in both Sales & Profit
 
-Accessories — High profitability, scope to scale further
+Accessories — High profitability with growth potential
 
 Loss-Making Category
 
 Tables — High sales but negative profit
 
-Indicates:
+Indicates
 
 heavy discounting
 
@@ -142,23 +135,19 @@ Profit Concentration
 
 Top 5 sub-categories contribute ~72% of total profit
 
-Sales Performance Analysis
-
 🧠 Key Business Insights
 
 ✔ West region should be treated as growth anchor market
 ✔ Phones & Copiers are core strategic product drivers
-✔ Accessories show high margin — scale opportunity
-✔ Central region requires operational / demand improvement
+✔ Accessories show high-margin scale opportunity
+✔ Central region requires operational & demand improvement
 ✔ Tables category needs urgent cost & pricing review
-
-Sales Performance Analysis
 
 🚀 Strategic Recommendations
 
 📌 Optimize discounting & supply cost in Tables
 📌 Expand Phones & Copiers via upsell + cross-sell
-📌 Improve Central region via:
+📌 Improve Central region through:
 
 pricing optimization
 
@@ -166,7 +155,7 @@ marketing focus
 
 distribution improvements
 
-📌 Increase investment in West & East where profitability scales faster
+📌 Increase investment in West & East regions where profitability scales faster
 
 
 ## **📂 Project Structure**
