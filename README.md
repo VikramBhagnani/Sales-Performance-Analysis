@@ -170,9 +170,3 @@ Sales Performance Analysis
 │
 └── README.md
 ```
-
-
-
-✔ SQL-based data exploration
-✔ Power BI interactive dashboard
-✔ Additional forecasting & profitability segmentation
